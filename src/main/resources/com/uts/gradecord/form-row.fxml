@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<HBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.uts.gradecord.controller.FormRowController"
+      spacing="10">
+
+    <TextField fx:id="nimField" promptText="NIM" prefWidth="100"/>
+    <TextField fx:id="namaField" promptText="Nama" prefWidth="150"/>
+    <TextField fx:id="matField" promptText="Matematika" prefWidth="80"/>
+    <TextField fx:id="ipaField" promptText="IPA" prefWidth="80"/>
+    <TextField fx:id="indoField" promptText="B. Indo" prefWidth="80"/>
+    <Button fx:id="deleteButton" text="Hapus" onAction="#onDelete"/>
+</HBox>
