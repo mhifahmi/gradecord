@@ -132,4 +132,4 @@ gradecord
 ---
 
 ## Video Penjelasan
-Link video penjelasan disertakan [di sini](https://youtu.be/OmR0ekXv-bc)
+Link video penjelasan disertakan [di sini](https://youtu.be/rnreYW9-11Y)
